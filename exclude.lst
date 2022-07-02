@@ -1,0 +1,5 @@
+_build/*
+.git/*
+.gitcornell/*
+.DS_Store
+*.zip
